@@ -1,2 +1,4 @@
 # Hello-World-in-six-languages
 These chunk of codes will print "Hello World" in java, python, c, c++, c# and javascript.
+
+This repository is a collection of code snippets that demonstrate how to print the classic "Hello World" message in six popular programming languages - Java, Python, C, C++, C#, and JavaScript. The purpose of this repository is to provide a quick reference for beginners learning these languages, as well as a demonstration of the differences in syntax and structure between them. Each code sample is accompanied by a brief explanation of the key features used, making it easier for developers of any experience level to understand the code. Whether you're just starting out in programming or looking to expand your knowledge of multiple languages, this repository is a valuable resource to have in your toolkit.
